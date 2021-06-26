@@ -1,0 +1,8 @@
+GeoLite2-Country*
+geoip
+geoip-*-sources.jar
+geoip-*.buildinfo
+geoip-*.jar
+geoip6
+notes.txt
+pom.xml
